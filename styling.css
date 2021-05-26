@@ -1,0 +1,33 @@
+* {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row {
+    display: flex;
+}
+.col {
+    background-color: rgb(46, 139, 127);
+    height: 5rem;
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 1rem;
+    flex: 1;
+}
+.col-2 {
+    background-color: rgb(46, 139, 127);
+    height: 5rem;
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 1rem;
+    flex: 2;
+}
+.col-3 {
+    background-color: rgb(46, 139, 127);
+    height: 5rem;
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 1rem;
+    flex: 3;
+}
